@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#252A47</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#54637a</color>
+
+    <color name="colorLightPink">#FFCCF5</color>
+    <color name="colorDarkerPurple">#bc57ff</color>
+
+    <color name="colorRaspberry">#FF0088</color>
+    <color name="colorBrightPink">#ff61f4</color>
+
+    <color name="button_pressed">#ff61f4</color>
+</resources>
+
+
